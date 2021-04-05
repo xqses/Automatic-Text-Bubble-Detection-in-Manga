@@ -1,4 +1,4 @@
-# CV_textBubbleDetection
+# Automatic Text Bubble Detection in Manga
 Simple (very lightweight) text bubble detector built using openCV
 
 Will detect and clean text bubbles from japanese manga. Make sure to install dependencies. (See the imports)
